@@ -1,0 +1,22 @@
+{
+  "name": "nativescriptdemo",
+  "version": "1.0.0",
+  "description": "nativescript 最佳实践探索",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moreJs/NativeScript-Demo.git"
+  },
+  "keywords": [
+    "Nativescript"
+  ],
+  "author": "huangjianlei.cool@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moreJs/NativeScript-Demo/issues"
+  },
+  "homepage": "https://github.com/moreJs/NativeScript-Demo#readme"
+}
